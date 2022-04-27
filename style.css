@@ -303,6 +303,7 @@ a:hover {
 
 .navbar-brand img {
     max-height: 200px;
+    height: 40px;
     margin: 0 5px 0 0;
     display: inline;
 }
@@ -360,6 +361,17 @@ a:hover {
     float: right;
     position: relative;
     z-index: 2;
+}
+
+.desc_service {
+    width: 75%;
+    font-size: 2rem;
+    margin: auto;
+}
+
+.desc {
+    font-size: 1.5rem;
+    font-style: normal;
 }
 
 @media (min-width: 768px) {
