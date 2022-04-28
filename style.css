@@ -988,8 +988,8 @@ h4 {
         box-shadow: none;
     }
     .navbar-brand img {
-        max-height: 40px;
-        width: auto;
+        height: 40px;
+        width: 100%;
     }
     .nav-invert .navbar-header {
         float: none;
