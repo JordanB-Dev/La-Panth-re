@@ -374,6 +374,13 @@ a:hover {
     font-style: normal;
 }
 
+.desc_p {
+    width: 40%;
+    font-size: 2rem;
+    margin: auto;
+
+}
+
 @media (min-width: 768px) {
     .site-navigation {
         position: absolute;
@@ -489,6 +496,7 @@ button {
 
 .icon-md {
     font-size: 30px!important;
+    padding: 20px;
 }
 
 .icon-lg {
@@ -747,8 +755,8 @@ h4 {
     margin-top: 24px;
 }
 
-.white {
-    color: #FFFFFF!important;
+.black {
+    color: #000000!important;
 }
 
 .portfolio-thumb {
@@ -783,11 +791,11 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #F3976C;
+    background-color: #ffffff;
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: #ffffff!important;
 }
 
 .btn-atomic-tangerine {
