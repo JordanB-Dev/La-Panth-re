@@ -457,6 +457,8 @@ nav .caret {
 .mg-md {
     margin-top: 10px;
     margin-bottom: 20px;
+    font-size: 1.8rem;
+    font-weight: 700;
 }
 
 .mg-lg {
