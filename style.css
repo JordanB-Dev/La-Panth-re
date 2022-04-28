@@ -1060,17 +1060,17 @@ h4 {
         padding-left: 0;
         padding-right: 0;
     }
-    .space {
-        margin: 8px;
-    }
-    
-    .space li {
-        margin: 8px;
-    }
 }
 
 @media (max-width: 767px) {
     .bloc-mob-center-text {
         text-align: center;
+    }
+    .space {
+        margin: 10px;
+    }
+    
+    .space li {
+        margin: 10px;
     }
 }
