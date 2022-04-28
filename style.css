@@ -763,13 +763,6 @@ h4 {
 .black {
     color: #000000!important;
 }
-.space {
-    margin: 8px;
-}
-
-.space li {
-    margin: 8px;
-}
 
 .portfolio-thumb {
     margin: 20px auto;
@@ -1066,6 +1059,13 @@ h4 {
     .bloc {
         padding-left: 0;
         padding-right: 0;
+    }
+    .space {
+        margin: 8px;
+    }
+    
+    .space li {
+        margin: 8px;
     }
 }
 
