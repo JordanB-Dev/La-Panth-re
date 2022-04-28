@@ -72,3 +72,5 @@ deny from all
 
 # protection de la lecture des répertoires
 Options -Indexes
+
+Cache-Control: max-age=31536000
