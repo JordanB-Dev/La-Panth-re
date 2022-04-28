@@ -74,3 +74,5 @@ deny from all
 Options -Indexes
 
 Cache-Control: max-age=31536000
+Cache-Control: "max-age=31536000, private"
+Cache-Control: 'max-age=31536000, public"
